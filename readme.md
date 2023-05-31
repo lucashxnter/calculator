@@ -20,9 +20,10 @@ Uma calculadora simples desenvolvida em JavaScript que roda na linha de comando 
 7. O resultado da operação será exibido no console.
 
 ## Exemplo de uso
-
+```
 $ node calculator.js
 Digite o primeiro número: 10
 Digite o segundo número: 5
 Digite a operação (+, -, *, /): *
-O resultado é: 50
+O resultado é: 50 
+```
